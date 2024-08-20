@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\talk-to-my-machine.props" />
+</Project>
